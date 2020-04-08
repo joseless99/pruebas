@@ -1,0 +1,2 @@
+- name: GitHub Action for Slack
+  uses: Ilshidur/action-slack@2.0.1
