@@ -2,3 +2,4 @@
   env:
     SLACK_WEBHOOK: ${{https://hooks.slack.com/services/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}
   uses: Ilshidur/action-slack@2.0.1
+  args: "Intento de uso de cGithub Actions"
